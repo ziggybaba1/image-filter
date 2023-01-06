@@ -3,3 +3,7 @@
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+.cloud-cdnd-c2-final.postman_collection.json
+node_modules/
+deployment_screenshots/
+
